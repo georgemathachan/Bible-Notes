@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Old Testament/23 - Psalms/Chapter 104.md",
+                "file": "1 - Old Testament/28 - Sirach/Chapter 5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 104"
+              "title": "Chapter 5"
             }
           }
         ],
@@ -107,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "edfd9b972e90a4ad",
@@ -124,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Old Testament/23 - Psalms/Chapter 104.md",
+                "file": "1 - Old Testament/28 - Sirach/Chapter 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Chapter 104"
+              "title": "Backlinks for Chapter 5"
             }
           },
           {
@@ -143,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Old Testament/23 - Psalms/Chapter 104.md",
+                "file": "1 - Old Testament/28 - Sirach/Chapter 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Chapter 104"
+              "title": "Outgoing links from Chapter 5"
             }
           },
           {
@@ -186,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Old Testament/23 - Psalms/Chapter 104.md",
+                "file": "1 - Old Testament/28 - Sirach/Chapter 5.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter 104"
+              "title": "Outline of Chapter 5"
             }
           }
         ],
@@ -216,14 +215,32 @@
   },
   "active": "99b652091f021a48",
   "lastOpenFiles": [
-    "1 - Old Testament/23 - Psalms/Chapter 19.md",
-    "1 - Old Testament/23 - Psalms/Chapter 104.md",
-    "1 - Old Testament/01 - Genesis/Chapter 1.md",
-    "1 - Old Testament/01 - Genesis/Chapter 2.md",
-    "1 - Old Testament/01 - Genesis/Chapter 4.md",
-    "1 - Old Testament/01 - Genesis/Chapter 3.md",
-    "README.md",
-    "Book Chapter.md",
+    "1 - Old Testament/28 - Sirach/Chapter 4.md",
+    "1 - Old Testament/28 - Sirach/Chapter 3.md",
+    "1 - Old Testament/28 - Sirach/Chapter 2.md",
+    "1 - Old Testament/28 - Sirach/Chapter 1.md",
+    "1 - Old Testament/22 - Job/Chapter 42.md",
+    "1 - Old Testament/28 - Sirach/Chapter 50.md",
+    "1 - Old Testament/28 - Sirach/Chapter 49.md",
+    "1 - Old Testament/28 - Sirach/Chapter 48.md",
+    "1 - Old Testament/28 - Sirach/Chapter 47.md",
+    "1 - Old Testament/28 - Sirach/Chapter 46.md",
+    "1 - Old Testament/28 - Sirach/Chapter 45.md",
+    "1 - Old Testament/28 - Sirach/Chapter 44.md",
+    "1 - Old Testament/28 - Sirach/Chapter 43.md",
+    "1 - Old Testament/28 - Sirach/Chapter 42.md",
+    "1 - Old Testament/28 - Sirach/Chapter 41.md",
+    "1 - Old Testament/28 - Sirach/Chapter 40.md",
+    "1 - Old Testament/28 - Sirach/Chapter 39.md",
+    "1 - Old Testament/28 - Sirach/Chapter 38.md",
+    "1 - Old Testament/28 - Sirach/Chapter 37.md",
+    "1 - Old Testament/28 - Sirach/Chapter 36.md",
+    "1 - Old Testament/28 - Sirach/Chapter 35.md",
+    "1 - Old Testament/28 - Sirach/Chapter 34.md",
+    "1 - Old Testament/28 - Sirach/Chapter 33.md",
+    "1 - Old Testament/28 - Sirach/Chapter 32.md",
+    "1 - Old Testament/28 - Sirach/Chapter 31.md",
+    "1 - Old Testament/28 - Sirach/Chapter 30.md",
     "2 - New Testament/27 - Revelation",
     "2 - New Testament/26 - Jude",
     "2 - New Testament/25 - 3 John",
@@ -233,8 +250,6 @@
     "2 - New Testament/21 - 1 Peter",
     "2 - New Testament/20 - James",
     "2 - New Testament/19 - Hebrews",
-    "2 - New Testament/18 - Philemon",
-    "create a link.md",
-    "Welcome.md"
+    "2 - New Testament/18 - Philemon"
   ]
 }
