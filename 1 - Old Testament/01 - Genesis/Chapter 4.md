@@ -11,7 +11,7 @@ but for Cain and his offering he had no regard. So Cain was very angry, and his 
 ###### Genesis 4:6
 The Lord said to Cain, “Why are you angry, and why has your countenance fallen?
 ###### Genesis 4:7
-If you do well, will you not be accepted? And if you do not do well, sin is couching at the door; its desire is for you, but you must master it.”
+If you do well, will you not be accepted? And if you do not do well, sin is lurking at the door; its desire is for you, but you must master it.”
 ###### Genesis 4:8
 Cain said to Abel his brother, “Let us go out to the field.” And when they were in the field, Cain rose up against his brother Abel, and killed him.
 ###### Genesis 4:9
@@ -27,7 +27,7 @@ Cain said to the Lord, “My punishment is greater than I can bear.
 ###### Genesis 4:14
 Behold, thou hast driven me this day away from the ground; and from thy face I shall be hidden; and I shall be a fugitive and a wanderer on the earth, and whoever finds me will slay me.”
 ###### Genesis 4:15
-Then the Lord said to him, “Not so![[c](https://www.biblegateway.com/passage/?search=Genesis%204&version=RSV#fen-RSV-95c "See footnote c")] If any one slays Cain, vengeance shall be taken on him sevenfold.” And the Lord put a mark on Cain, lest any who came upon him should kill him.
+Then the Lord said to him, “Not so! If any one slays Cain, vengeance shall be taken on him sevenfold.” And the Lord put a mark on Cain, lest any who came upon him should kill him.
 ###### Genesis 4:16
 Then Cain went away from the presence of the Lord, and dwelt in the land of Nod, east of Eden.
 ###### Genesis 4:17
@@ -57,3 +57,12 @@ And Adam knew his wife again, and she bore a son and called his name Seth, for s
 ###### Genesis 4:26
 To Seth also a son was born, and he called his name Enosh. At that time men began to call upon the name of the Lord.
 
+
+
+### General Notes
+In this chapter we see that God accepts Abel's offering bur rejects Cain's. Abel brought out the best he had to offer - the firstlings of his flock - but Cain brought some fruit of the ground and not necessarily the first fruits. This wasn't meaningless to God but meaningless to us. How often do we say we will pray at a certain time but fail to do so. By keeping the promises we make to ourselves and to God, we are giving God our first fruits, our best.
+
+
+
+### Questions to ask oneself
+Am i bringing my best to God?
