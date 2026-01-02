@@ -1,7 +1,7 @@
 ###### Genesis 1:1
 In the beginning God created the heavens and the earth.
 
-The word created used here is the Hebrew word bara (בָּרָא) which is not found anywhere else in the Bible. It means creation out of nothing.
+The word created used here is the Hebrew word bara (בָּרָא). It is used exclusively with God as its subject in Scripture, emphasising divine creation in a way no human action can replicate. It often carries the sense of God bringing about something radically new. It means creation out of nothing.
 ###### Genesis 1:2
 The earth was without form and void, and darkness was upon the face of the deep; and the Spirit of God was moving over the face of the waters.
 ###### Genesis 1:3
@@ -67,5 +67,52 @@ And God saw everything that he had made, and behold, it was very good. And there
 
 
 ### General Notes
-We cannot these early chapters of Genesis wrong - if we get these wrong then we will get the entire Bible, the story of salvation, trajectory of the Western civilisation wrong. That's not to say there aren't other creation stories around but Genesis 1 is unique. Other creation stories are more often that not, born out of violence or evil. The CCC teaches "God infinitely perfect and blessed in himself, in a plan of sheer goodness, freely created man to share in his own blessed life". The CCC asserts what the Bible asserts. God created us not to be his slaves or pawns but to share in his own blessed life.
-We do not **need** to take this Chapter literally. 
+
+#### Theology
+- These early chapters of Genesis are foundational. If we misunderstand them, we distort the entire biblical narrative of creation, fall, and salvation.
+- Genesis 1 presents creation as flowing from divine order, intention, and goodness.
+- God did not create humanity as slaves or pawns, but to participate in His own blessed life.
+
+#### Christological Foreshadowing
+- *(Intentionally left open for future study.)*
+
+#### Anthropology / Humanity
+- Human dignity is grounded in being made in the image and likeness of God, not in beauty, strength, power, or political authority.
+
+#### Creation / Order
+- Creation is presented as orderly and purposeful rather than chaotic or violent.
+
+#### Covenant / Salvation History
+- *(To be developed as creation is placed within God’s unfolding plan of salvation.)*
+
+#### Doctrine / Church Teaching
+- The Catechism of the Catholic Church teaches:  
+  > “God, infinitely perfect and blessed in himself, in a plan of sheer goodness, freely created man to share in his own blessed life.”
+
+#### Literary Structure
+- *(To be expanded: repetition, structure of days, divine speech.)*
+
+#### Ethical / Moral Implications
+- *(Potential future reflection: stewardship, dominion, goodness of creation.)*
+
+#### Interpretation Notes
+- We do not **need** to take this chapter in a strictly literalist sense to affirm its theological truth.
+
+#### Historical / Cultural Context
+- Genesis 1 stands in contrast to other ancient creation accounts, which often arise from violence or conflict.
+
+#### Prayer / Spiritual Reflection
+- *(Optional personal reflection.)*
+
+#### Questions / Tensions
+- *(Reserved for unresolved questions or interpretive difficulties.)*
+
+
+
+
+
+
+### Cross References
+
+
+

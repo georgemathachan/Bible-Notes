@@ -4,6 +4,8 @@ Thus the heavens and the earth were finished, and all the host of them.
 And on the seventh day God finished his work which he had done, and he rested on the seventh day from all his work which he had done.
 ###### Genesis 2:3
 So God blessed the seventh day and hallowed it, because on it God rested from all his work which he had done in creation.
+
+God's rest is not due to fatigue, but completion. Divine rest establishes Sabbath as something sacred, woven into creation itself. Time is sanctified, not just space. Rest is therefore not optional or secondary - it is part of God's design for humanity.
 ###### Genesis 2:4
 These are the generations of the heavens and the earth when they were created.
 *Another Account of Creation*
@@ -14,6 +16,8 @@ when no plant of the field was yet in the earth and no herb of the field had yet
 but a mist went up from the earth and watered the whole face of the ground—
 ###### Genesis 2:7
 then the Lord God formed man of dust from the ground, and breathed into his nostrils the breath of life; and man became a living being.
+
+Here God is described as forming (Hebrew: yatsar; יָצַר), like a potter shaping clay. Humanity is both earthly (dust) and divine (breath of God). This verse holds together humility and dignity: we are fragile, yet animated directly by God's own breath.
 ###### Genesis 2:8
 And the Lord God planted a garden in Eden, in the east; and there he put the man whom he had formed.
 ###### Genesis 2:9
@@ -28,12 +32,16 @@ and the gold of that land is good; bdellium and onyx stone are there.
 The name of the second river is Gihon; it is the one which flows around the whole land of Cush.
 ###### Genesis 2:14
 And the name of the third river is Tigris, which flows east of Assyria. And the fourth river is the Euphra′tes.
+
+Eden is portrayed as a place of abundance, beauty, and order. The presence of real rivers grounds the narrative in history while also symbolising life flowing outward from God's dwelling place.
 ###### Genesis 2:15
 The Lord God took the man and put him in the garden of Eden to till it and keep it.
 ###### Genesis 2:16
 And the Lord God commanded the man, saying, “You may freely eat of every tree of the garden;
 ###### Genesis 2:17
 but of the tree of the knowledge of good and evil you shall not eat, for in the day that you eat of it you shall die.”
+
+Work is given before the Fall and is therefore good. The command introduces moral freedom: love requires the possibility of refusal. Death here first appears as spiritual rupture before physical consequence.
 ###### Genesis 2:18
 Then the Lord God said, “It is not good that the man should be alone; I will make him a helper fit for him.”
 
@@ -58,13 +66,52 @@ Therefore a man leaves his father and his mother and cleaves to his wife, and th
 ###### Genesis 2:25
 And the man and his wife were both naked, and were not ashamed.
 
-John Paul II describes this verse as a mystery that we cannot begin to understand. When God made the earth he made it absolutely good.
+John Paul II points to this verse as revealing a mystery of original communion. Nakedness without shame signifies total trust, transparency, and harmony—before sin fractures human relationships.
 
 
 
 ### General Notes
-God made us with three purposes: to work, to rest and to love. Part of what makes us like God is that we can labour like God - work is soon distorted/fallen as sin enters the world.
 
-We should note that Genesis Chapter 1 and Genesis Chapter 2 are accounts of the same event. Chapter 1 is a macro event, Chapter 2 is a micro event.
+#### Theology 
 
-Woman was not taken from man's head to rule over him, or from his side to be walked upon by him. He took her from his side to walk with him, from beneath his arm to be guarded by him, and from near his heart to be loved by him.
+- God’s rest sanctifies time and establishes the rhythm of worship.
+- Humanity is uniquely both material and spiritual.
+
+#### Anthropology / Humanity
+
+- Humans are made for **work, rest, and love**.
+- Work is dignified before the Fall; it is later distorted by sin, not created by it.
+- Loneliness is identified as “not good” even in a perfect creation.
+
+#### Marriage / Human Relationships
+
+- Woman is taken from man’s side to signify equality and companionship.
+- Marriage is presented as a total union: leaving, cleaving, and becoming one flesh.
+
+#### Literary Structure
+
+- Genesis 1 and 2 describe the **same creation event** from different perspectives:
+	- Chapter 1: cosmic, ordered, liturgical (macro)
+	- Chapter 2: relational, intimate, personal (micro)
+
+#### Doctrine / Church Teaching
+
+- Genesis 2 underpins Catholic theology of marriage, vocation, and human dignity.
+- John Paul II’s _Theology of the Body_ draws heavily from these verses.
+
+#### Ethical / Moral Implications
+
+- Freedom and obedience coexist.
+- True love presupposes choice.
+
+#### Prayer / Spiritual Reflection
+
+- To be fully human is to live in communion: with God, with creation, and with others.
+- Shame is not original; it is a symptom of sin.
+
+#### Questions / Tensions
+
+
+
+
+### Cross References

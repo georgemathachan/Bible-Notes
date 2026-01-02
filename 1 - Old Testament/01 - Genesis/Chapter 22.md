@@ -1,2 +1,2 @@
-﻿# Genesis 22
+# Genesis 22
 

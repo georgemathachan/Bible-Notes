@@ -8,10 +8,18 @@ but God said, ‘You shall not eat of the fruit of the tree which is in the mids
 But the serpent said to the woman, “You will not die.
 ###### Genesis 3:5
 For God knows that when you eat of it your eyes will be opened, and you will be like God, knowing good and evil.”
+
+The serpent does not deny God’s existence or power - he attacks **God’s trustworthiness**. The temptation is subtle: _God is holding something back from you._ Sin begins not with rebellion, but with suspicion.
 ###### Genesis 3:6
 So when the woman saw that the tree was good for food, and that it was a delight to the eyes, and that the tree was to be desired to make one wise, she took of its fruit and ate; and she also gave some to her husband, and he ate.
 ###### Genesis 3:7
 Then the eyes of both were opened, and they knew that they were naked; and they sewed fig leaves together and made themselves aprons.
+
+Sin is presented as:
+- good for the body
+- pleasing to the eyes
+- promising wisdom
+This pattern still describes how sin is marketed today. The “opening of eyes” does not bring freedom, but shame.
 ###### Genesis 3:8
 And they heard the sound of the Lord God walking in the garden in the cool of the day, and the man and his wife hid themselves from the presence of the Lord God among the trees of the garden.
 ###### Genesis 3:9
@@ -26,6 +34,8 @@ This is not the anger of God but the heartbreak of God the Father in his voice b
 The man said, “The woman whom thou gavest to be with me, she gave me fruit of the tree, and I ate.”
 ###### Genesis 3:13
 Then the Lord God said to the woman, “What is this that you have done?” The woman said, “The serpent beguiled me, and I ate.”
+
+Sin fractures communion. Adam blames Eve—and implicitly God. Eve blames the serpent. Responsibility is deflected; trust is broken.
 ###### Genesis 3:14
 The Lord God said to the serpent,
 
@@ -40,6 +50,8 @@ I will put enmity between you and the woman,
     and between your seed and her seed;  
 he shall bruise your head,  
     and you shall bruise his heel.”
+
+This verse is known as the **Protoevangelium** — the first proclamation of the Gospel. Even in judgment, God promises redemption. A future offspring will defeat the serpent, though at great cost.
 ###### Genesis 3:16
 To the woman he said,  
 “I will greatly multiply your pain in childbearing;  
@@ -64,6 +76,8 @@ till you return to the ground,
     for out of it you were taken;  
 you are dust,  
     and to dust you shall return.”
+
+God curses the serpent, **not** the man or the woman. The suffering that follows is remedial, not vindictive. Love now requires sacrifice in a fallen world.
 ###### Genesis 3:20
 The man called his wife’s name Eve, because she was the mother of all living.
 ###### Genesis 3:21
@@ -82,7 +96,39 @@ This verse tells us that God still cared for Adam and Eve. How so? Because if yo
 
 
 ### General Notes
-Note the devil doesn't challenge God directly, his authority or his existence, but he does challenge God's trustworthiness. It's a challenge of 'do you belong to him or instead of belonging to him do you want to take your life into your own hands'.
-People often say 'God, if you revealed yourself to me a bit more I'd believe in you' but the point isn't to believe in him but to belong to him. God could reveal his goodness, his beauty, his power but the same challenge, the same test, is still required of us like it was required of Adam and Eve. Do you not only believe in me but do you belong to him.
-The serpent says to Eve, 'if God really loved you he would let you eat from the tree' and Eve saw that the tree was good for food, and that it was a delight to the eyes, and that the tree was to be desired to make one wise, she took of its fruit and ate. I think this is synonymous to the way sin is presented in our day-to-day lives. There are many sins in the world today that is presented as 'good' or 'not that bad'.
-God curses the serpent in this Chapter 1 but he doesn't curse the Man or the Woman. What they have to go through are remedies. God made us for work, rest and to love and Adam and Eve failed to love and thus as a remedy they basically learn that to love is to sacrifice.
+
+#### Theology
+
+- Sin begins by questioning God’s goodness, not His existence.
+- God’s justice is always intertwined with mercy.
+
+#### Anthropology / Humanity
+
+- Shame is not original to humanity; it is the result of sin.
+- Humans are relational beings, and sin damages every relationship.
+
+#### Doctrine / Salvation History
+
+- Genesis 3:15 introduces the promise of redemption.
+- The pattern of sacrifice begins here and develops throughout Scripture.
+
+#### Ethical / Moral Implications
+
+- Sin often presents itself as reasonable, attractive, and beneficial.
+- True freedom is not autonomy from God, but belonging to Him.
+
+#### Literary Structure
+
+- The movement of the chapter flows from dialogue → action → rupture → promise → exile.
+
+#### Prayer / Spiritual Reflection
+
+- God seeks us even when we hide.
+- Repentance begins when we stop deflecting blame.
+
+#### Questions / Tensions
+
+
+
+
+### Cross References
